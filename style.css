@@ -1,0 +1,472 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+
+.uper1{
+    position: absolute;
+    top: 10px;
+    right: 70px;
+    color: #FFFFFF;
+
+}
+
+
+.display1{
+    display: flex;
+    width: 100%;
+    position: absolute;     
+    top: 60px;
+    left: 80px;
+    
+    
+
+}
+.main2{
+    flex: 1;
+}
+.uper2 ul{
+    overflow: hidden;
+    
+}
+.uper2 ul li{
+    
+    display: inline-flex;
+    padding-left:10px;
+    padding-top: 5px;
+    color: #FFFFFF;
+        
+}
+.uper2{
+    flex: 3;
+}
+.page2{
+    font-size: 40px;
+    color: #535353;
+    margin-top: 125px;
+    padding-left: 100px;
+    
+}
+
+.text1
+{
+    font-size: medium;
+    text-align: start;
+    color: #535353;
+    padding-top: 10px;
+}
+
+.image2{
+
+    font-size: 40px;
+    margin-top: -230px;
+    padding-left:830px;
+    
+}
+
+.bt1{
+    background-color: #f47929;
+    font-size: 15px;
+    font-family:domine serif ;
+    padding-top: -300px;
+    margin-top:50px ;
+    color: azure;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+.s1{
+    width: 100%;
+    height: 400px;
+}
+
+.logo1{
+
+    padding-left: 130px;
+    margin-top: -20px;
+}
+
+.text2{
+    font-size: 55px;
+    font-style:domine serif;
+    padding-left: 20px;
+}
+
+.text3{
+    font-size:25px ;
+    font-style: normal;
+    margin-left: -15px;
+}
+
+.logo2{
+
+    padding-left: 450px;
+    margin-top: -190px;
+}
+
+.text4{
+    font-size: 50px;
+    margin-left: -40px;
+    color: black;
+    
+}
+.text5{
+     font-size: 25px;
+     margin-left: -40px;
+     padding-top: 10px;
+
+}
+
+.logo4{
+
+    padding-left:800px ;
+    margin-top: -175px;
+}
+
+.text6{
+
+    font-size: 50px;
+    color: black;
+    margin-left: -20px;
+}
+
+.text7{
+
+    font-size: 25px;
+    margin-left: -40px;
+    margin-top: 18px;
+}
+
+
+.logo5{
+
+    padding-left: 1150px;
+    margin-top: -175px;
+}
+
+.text8{
+    font-size: 50px;
+    margin-left: 10px;
+    color: black;
+}
+
+
+.text9{
+
+    font-size: 25px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.logos{
+    margin-top: 100px;
+}
+
+.s2{
+    width: 100%;
+    height: 400px;
+}
+
+
+
+.text10{
+    font-size: 16px;
+
+
+}
+
+
+.pote1{
+
+    
+    background:#bbd8ff;
+    width: 650px;
+    height: 260px;
+    margin-left:700px ;
+    margin-top: -260px;
+    border-radius: 20px;    
+}
+
+.thoppi{
+
+    padding-top: 70px;
+    padding-left: 50px;
+  
+}
+
+.text10{
+    font-size: 28px; 
+    padding-left: 190px;
+    margin-top: -115px;
+    color: black;
+}
+
+.text11{
+
+    font-size:18px ;
+    padding-left:190px ;
+    padding-top:20px ;
+
+}
+
+.bt3{
+    background-color: #f47929;
+    font-size: 15px;
+    font-family:domine serif ;
+    padding-top: -300px;
+    margin-top:-55px ;
+    color: azure;
+    width: 100px;
+    height: 40px;
+    border-radius: 3px;
+    border: none;
+    margin-left: 185px;
+    
+}
+
+.pote2{
+
+    background:#ffae79;
+    width: 650px;
+    height: 260px;
+    margin-left:10px ;
+    margin-top: -100px;
+    border-radius: 20px;   
+
+}
+
+.view{
+
+    padding-left:50px ;
+    padding-top: 55px;
+}
+
+.text12{
+
+    font-size: 30px;
+    padding-left: 280px;
+    margin-top: -100px;
+}
+.text13{
+    font-size: 17px;
+    padding-left: 280px;
+    margin-top: 20px;
+}
+
+.page3{
+    
+    width: 100%;
+    height: 500px;
+    display: flex;
+    
+}
+
+.text14{
+
+    font-size: 35px;
+    color: #060505d9;
+}
+
+.boder1{
+
+    background:#FFFFFF;
+    width: 295px;
+    height: 320px;
+    margin-left: 60px;
+    margin-top: 70px;
+    border-radius: 20px;  
+    border-color: #96919d; 
+    border: 1px solid;   
+}
+
+
+.boder2{
+    margin-top: 70px;
+    background:#FFFFFF;
+    width: 295px;
+    height: 320px;
+    margin-left: 15px;
+    border-radius: 20px;  
+    border-color: #96919d; 
+    border: 1px solid;   
+
+}
+
+.boder3{
+
+
+    margin-top: 70px;
+    background:#FFFFFF;
+    width: 295px;
+    height: 320px;
+    margin-left: 15px;
+    border-radius: 20px;  
+    border-color: #96919d; 
+    border: 1px solid;   
+}
+
+.boder4{
+
+    margin-top: 70px;
+    background:#FFFFFF;
+    width: 295px;
+    height: 320px;
+    margin-left: 15px;
+    border-radius: 20px;  
+    border-color: #96919d; 
+    border: 1px solid;  
+
+
+}
+
+.page4{
+     
+    width: 100%;
+    height: 450px;
+}
+
+.text15{
+
+    font-size: 45px;
+    color: #000000;
+    margin-top: 30px;
+    margin-left: 110px;
+
+}
+
+.food1{
+    display: flex;
+}
+
+.text16{
+    font-size: 18px;
+    color: #535353;
+    margin-left: 660px;
+    margin-top: -180px;
+}
+
+.bt4{
+
+    background-color: #f47929;
+    font-size: 15px;
+    font-family:domine serif ;
+    margin-top:30px ;
+    color: azure;
+    width: 180px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 660px;
+}
+
+.special2{
+    background-image: url(image/background1.png);
+    width: 100%;
+    height: 450px;
+    margin-left: 0px;
+    padding-left:0px;
+    
+}
+
+
+.text17{
+
+    font-size: 40px;
+    color: #000000;
+    padding-left: 550px;
+    padding-top: 110px;
+
+}
+
+.text18{
+    font-size: 20px;
+    color: #535353;
+    padding-left:430px ;
+    padding-top:30px ;
+}
+
+.bt5{
+    background-color:#ffffff ;
+    font-size: 18px;
+    font-family:domine serif ;
+    margin-top:30px ;
+    color: rgb(119, 123, 123);
+    width: 900px;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid rgb(239, 233, 233);
+     margin-left: 400px; 
+    text-align: start;
+    padding-left: 20px;
+    flex: 1;
+
+}
+
+
+.bt6{
+
+    background-color: #ef670c;
+    font-size: 15PX;
+    margin-top: 35PX;
+    color: #FFFFFF;
+    width: 120PX;
+    height: 40PX;
+    border-radius: 4px;
+    margin-right: 90px;
+    top: -50px;
+    font-style: normal;
+ border: none;
+}
+.buttons{
+    display: flex;
+}
+.buttob-bt5{
+    flex: 1;
+}
+.buttob-bt6{
+    flex: 1;
+}
+
+
+.page5{
+
+    width: 100%;
+    height: 750px;
+    background-color: #393939;
+
+    
+}
+
+.list10{
+
+    font-size:30px ;
+    color: #FFFFFF;
+}
+
+.page5 ul{
+
+    font-size: 15px;
+    color: #FFFFFF;
+    list-style: none;
+    padding-left: 150px;
+   
+}
+
+.page5{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 95px;
+    
+}
+
+.page5 li{
+    margin-top: 25px;
+
+}
+
+
+    
+
+
